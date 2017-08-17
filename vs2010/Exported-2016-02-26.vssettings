@@ -1,0 +1,51 @@
+<UserSettings>
+	<ApplicationIdentity version="10.0"/>
+	<ToolsOptions>
+		<ToolsOptionsCategory name="Environment" RegisteredName="Environment"/>
+	</ToolsOptions>
+	<Category name="Environment_Group" RegisteredName="Environment_Group">
+		<Category name="Environment_FontsAndColors" Category="{1EDA5DD4-927A-43a7-810E-7FD247D0DA1D}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_FontsAndColors" PackageName="Visual Studio Environment Package">
+			<PropertyValue name="Version">2</PropertyValue>
+			<FontsAndColors Version="2.0">
+				<Categories>
+					<Category GUID="{A27B4E24-A735-4D1D-B8E7-9716E1E3D8E0}" FontName="Lucida Console" FontSize="11" CharSet="0" FontIsDefault="No">
+						<Items>
+							<Item Name="Plain Text" Foreground="0x00C0C0C0" Background="0x00000000" BoldFont="No"/>
+							<Item Name="C/C++ User Keywords" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="VA Brace Error" Foreground="0x000000FF" Background="0x00FFFFFF" BoldFont="Yes"/>
+							<Item Name="VA Brace Matching" Foreground="0x00000000" Background="0x00808080" BoldFont="Yes"/>
+							<Item Name="VA Class" Foreground="0x00FF8000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="VA Column Indicator" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="VA Current Line" Foreground="0x00000080" Background="0x00EBEBEB" BoldFont="No"/>
+							<Item Name="VA Find Reference" Foreground="0x00000000" Background="0x00808080" BoldFont="No"/>
+							<Item Name="VA Find Reference (Modified)" Foreground="0x00000000" Background="0x0096697D" BoldFont="No"/>
+							<Item Name="VA Find Result" Foreground="0x00000000" Background="0x00005151" BoldFont="No"/>
+							<Item Name="VA Method" Foreground="0x000000FF" Background="0x02000000" BoldFont="No"/>
+							<Item Name="VA Variable" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Code Snippet Dependent Field" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Keyword" Foreground="0x00C08000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="关键字" Foreground="0x00008080" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Definition Window Current Match" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Number" Foreground="0x00008080" Background="0x02000000" BoldFont="No"/>
+							<Item Name="数字" Foreground="0x00808080" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Literal" Foreground="0x00008080" Background="0x02000000" BoldFont="No"/>
+							<Item Name="文本" Foreground="0x00808080" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Identifier" Foreground="0x00808080" Background="0x02000000" BoldFont="No"/>
+							<Item Name="User Types" Foreground="0x00FF8000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="SymbolDefinitionClassificationFormat" Foreground="0x00FF8000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="SymbolReferenceClassificationFormat" Foreground="0x00008800" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Refactoring Dependent Field" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Preprocessor Keyword" Foreground="0x00800080" Background="0x02000000" BoldFont="No"/>
+						</Items>
+					</Category>
+					<Category GUID="{A9A5637F-B2A8-422E-8FB5-DFB4625F0111}" FontName="微软雅黑" FontSize="9" CharSet="134" FontIsDefault="No">
+						<Items/>
+					</Category>
+					<Category GUID="{C1614BB1-734F-4A31-BD42-5AE6275E16D2}" FontName="微软雅黑" FontSize="9" CharSet="134" FontIsDefault="No">
+						<Items/>
+					</Category>
+				</Categories>
+			</FontsAndColors>
+		</Category>
+	</Category>
+</UserSettings>
